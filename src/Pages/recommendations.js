@@ -20,7 +20,7 @@ export default function Recommendations() {
 
     const [randomLink, setRandomLink] = useState('');
 
-    const url = 'https://leetcode.com/problems/';
+    const url = 'https://leetcode.com/problems';
 
 
     const handleSubmission = () => {
